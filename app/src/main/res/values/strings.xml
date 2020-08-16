@@ -6,4 +6,18 @@
     <string name="Mainpage">首页</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="scan_name">扫一扫</string>
+    <string name="search_hint">目的地/景点/酒店/门票</string>
+    <string name="news_name">消息</string>
+    <string name="sail_name">优惠券</string>
+    <string name="yh_name">优惠券</string>
+    <string name="go_name">购物车</string>
+    <string name="txt_my_menu_name">我的订单</string>
+    <string name="my_save_name">我的收藏</string>
+    <string name="my_pwd_name">我的口令</string>
+    <string name="my_name">我的锦囊</string>
+    <string name="me_safe_center">安全中心</string>
+    <string name="me_address">我的地址</string>
+    <string name="me_service">服务中心</string>
+    <string name="suggestion_name">意见反馈</string>
 </resources>
